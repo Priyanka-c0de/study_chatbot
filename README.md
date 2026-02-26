@@ -2,8 +2,7 @@
     Study Bot is a stateful API designed to provide structured academic support to students. The system integrates Large Language Models (LLMs) with a NoSQL database to maintain conversation context and deliver   personalized tutoring.
 
 **Project Deliverables**
-     Hosted API Link: [https://study-chatbot-8pvi.onrender.com]   
-     
+     Hosted API Link: [https://study-chatbot-8pvi.onrender.com]
      Interactive Documentation: [https://study-chatbot-8pvi.onrender.com/docs]
 
 **Technical Stack**
