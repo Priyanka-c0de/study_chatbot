@@ -27,10 +27,11 @@ Data Persistence: The generated response and the original query are saved back t
 
 **Installation and Setup**
 Prerequisites
+VS Code
 Python 3.10 or higher
-
 MongoDB Atlas Cluster
 Groq API Key
+
 
 Local Installation
 Clone the repository:
